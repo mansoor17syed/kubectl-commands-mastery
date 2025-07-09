@@ -239,8 +239,6 @@ grep -r "pods" . --include="*.md"
 
 ---
 
-**Made with ❤️ by the Kubernetes community**
+**Made with ❤️ for Kubernetes community**
 
 ---
-
-*Last updated: December 2024* 
