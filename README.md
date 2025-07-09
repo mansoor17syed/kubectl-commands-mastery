@@ -2,9 +2,8 @@
 ## Complete Kubernetes CLI Reference Guide
 
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/yourusername/kubectl-commands-mastery)](https://github.com/yourusername/kubectl-commands-mastery)
-[![Forks](https://img.shields.io/github/forks/yourusername/kubectl-commands-mastery)](https://github.com/yourusername/kubectl-commands-mastery)
+[![Stars](https://img.shields.io/github/stars/mansoor17syed/kubectl-commands-mastery)](https://github.com/mansoor17syed/kubectl-commands-mastery)
+[![Forks](https://img.shields.io/github/forks/mansoor17syed/kubectl-commands-mastery)](https://github.com/mansoor17syed/kubectl-commands-mastery)
 
 > **The most comprehensive kubectl commands reference with 300+ commands from beginner to expert level**
 
@@ -17,7 +16,6 @@
 - [Command Categories](#command-categories)
 - [Usage Examples](#usage-examples)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 
@@ -43,7 +41,7 @@ This repository contains **300+ kubectl commands** organized by complexity and u
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/kubectl-commands-mastery.git
+git clone https://github.com/mansoor17syed/kubectl-commands-mastery.git
 
 # Navigate to the directory
 cd kubectl-commands-mastery
