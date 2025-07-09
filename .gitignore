@@ -1,0 +1,46 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Backup files
+*.bak
+*.backup
+backup/
+
+# Cluster dumps
+cluster-dump/
+dump/
+
+# etcd backups
+*.db
+etcd-backup-*
+
+# Script outputs
+output/
+results/
+
+# Personal notes
+notes.md
+TODO.md 
